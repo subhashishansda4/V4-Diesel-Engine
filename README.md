@@ -25,9 +25,9 @@ The full calculation report can be found here:\
 ![1](https://github.com/subhashishansda4/V4-Diesel-Engine/blob/main/renders/1.jpg)
 
 <p align="center">
-  <img alt="2" src="https://github.com/subhashishansda4/V4-Diesel-Engine/blob/main/renders/2.jpg" width="50%">
+  <img alt="2" src="https://github.com/subhashishansda4/V4-Diesel-Engine/blob/main/renders/2.jpg" width="45%" height="50%">
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="3" src="https://github.com/subhashishansda4/V4-Diesel-Engine/blob/main/renders/3.jpg" width="50%">
+  <img alt="3" src="https://github.com/subhashishansda4/V4-Diesel-Engine/blob/main/renders/3.jpg" width="45%" height="50%">
 </p>
 
 ## Working
