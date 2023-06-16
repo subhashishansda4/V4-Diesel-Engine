@@ -19,16 +19,19 @@ Designed a V4 Diesel Engine parts using mechanical calculations based on the bel
 
 ### Calculation
 The full calculation report can be found here:\
-[Calculation Report](https://github.com/subhashishansda4/V4-Diesel-Engine/blob/main/Design%20of%204-Stroke%20Diesel%20Engine.pdf)
+[REPORT](https://github.com/subhashishansda4/V4-Diesel-Engine/blob/main/Design%20of%204-Stroke%20Diesel%20Engine.pdf)
 
 ## Renders
 ![1](https://github.com/subhashishansda4/V4-Diesel-Engine/blob/main/renders/1.jpg)
 
-![2](https://github.com/subhashishansda4/V4-Diesel-Engine/blob/main/renders/2.jpg)
-
-![3](https://github.com/subhashishansda4/V4-Diesel-Engine/blob/main/renders/3.jpg)
+<p align="center">
+  <img alt="2" src="https://github.com/subhashishansda4/V4-Diesel-Engine/blob/main/renders/2.jpg" width="45%">
+  <img alt="3" src="https://github.com/subhashishansda4/V4-Diesel-Engine/blob/main/renders/3.jpg" width="45%">
+</p>
 
 ## Working
 ![1](https://github.com/subhashishansda4/V4-Diesel-Engine/blob/main/work/1.jpg)
 
-https://github.com/subhashishansda4/V4-Diesel-Engine/assets/84849423/f32b2d51-84f2-4679-961e-eedea0c163c5
+<div align="center">
+    https://github.com/subhashishansda4/V4-Diesel-Engine/assets/84849423/f32b2d51-84f2-4679-961e-eedea0c163c5
+</div>
