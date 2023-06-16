@@ -34,5 +34,5 @@ The full calculation report can be found here:\
 ![1](https://github.com/subhashishansda4/V4-Diesel-Engine/blob/main/work/1.jpg)
 
 <div align="center">
-    https://github.com/subhashishansda4/V4-Diesel-Engine/assets/84849423/f32b2d51-84f2-4679-961e-eedea0c163c5
+    <video src="https://github.com/subhashishansda4/V4-Diesel-Engine/assets/84849423/f32b2d51-84f2-4679-961e-eedea0c163c5" width="400"/>
 </div>
